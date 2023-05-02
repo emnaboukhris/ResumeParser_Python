@@ -1,0 +1,7 @@
+# Python related
+__pycache__/
+dist/
+build/
+env/
+venv/
+.idea/
